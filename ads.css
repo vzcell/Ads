@@ -64,7 +64,7 @@ header a:hover {
 }
 
 #home {
-    background: #0b0b0a url('/images/bg/background-celular.png'); center center /cover no-repeat fixed;
+    background: #0b0b0a url('/images/bg/background-celular.png');
     height: calc(100vh - 230px);
     min-height: 300px;
     padding: 200px 0 0 50px;
